@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="175" />
+   <irq preferredWidth="34" />
+   <inputclock preferredWidth="152" />
+   <name preferredWidth="311" />
+  </columns>
+ </systemtable>
+ <library expandedCategories="Project,Library,Project/ECE 385 Custom IPs" />
+ <window width="1938" height="1168" x="-9" y="-9" />
+ <generation path="lab71_soc/" />
+</preferences>
